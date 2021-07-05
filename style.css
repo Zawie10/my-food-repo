@@ -1,0 +1,48 @@
+.color-words{
+    color: coral;
+}
+body{
+    font-family: 'Cairo', sans-serif;
+}
+h1{
+    font-size: 70px;
+}
+.half-width{
+    width: 50%;
+    margin-top: 100px;
+}
+section{
+    display: flex;
+}
+.backg{
+    background-image: url(images/wbg.jpg);
+}
+.flexible-container{
+    display: flex;
+    margin-bottom: 10px; ;
+}
+.margin{
+    margin-top: 70px;
+}
+.ybackg{
+    background-image: url(images/ybg.jpg);
+    background-repeat: no-repeat;
+    border-radius: 46px;
+}
+.font-manager {
+    font-size: 20px;
+}
+
+.wide{
+    padding-top: 100px;
+    padding-left: 700px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    border-radius: 5px;
+    color:white;
+    font-weight: 700;
+    
+}
